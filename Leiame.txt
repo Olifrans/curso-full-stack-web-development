@@ -1,4 +1,4 @@
-* Craindo uma Workspaces no gitpod.io
+* Criando uma Workspaces no gitpod.io
 
 0- Faça login no 
 https://gitpod.io/
@@ -6,7 +6,7 @@ https://gitpod.io/
 1- Obeserve a URL
 https://gitpod.io/workspaces
 
-2- Para adcionar o projeto GitHub, no Gitpod delete a palavra /workspaces da URL,
+2- Para adcionar o projeto GitHub no Gitpod, delete a palavra /workspaces da URL (https://gitpod.io/workspaces),
 em seguida digite o simbolo jogo da velha (" # "), mais o endereço do projeto do GitHub.
 Exemplo:
 https://gitpod.io#https://github.com/Olifrans/curso-full-stack-web-development.git
@@ -24,7 +24,7 @@ Next steps:
   2: git init && git add -A && git commit -m "Initial commit" (optional)
   3: npm run dev -- --open
 
-Cola no terminal do  projeto
+Feito por mim:
 npm init svelte@next .
 npm install
 npm run dev
