@@ -32,3 +32,13 @@ npm run dev
 
 Estudo parado na posição do video 29:45
 https://www.youtube.com/watch?v=OUzaUJ3gEug
+
+
+
+
+TT.gitpod.yml-TT
+# tasks:
+#   - init: |
+#       echo 'TODO: build project'
+#     command: |
+#       echo 'TODO: start app'

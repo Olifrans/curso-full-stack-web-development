@@ -19,11 +19,11 @@
 			</picture>
 		</div>
 
-		Curso Ful-Stack Web Development<br />Francisco Olifrans
+		Bem Vindo ao "Curso Ful-Stack Web Development"<br />Francisco Olifrans
 	</h1>
 
 	<h2>
-		try editing <strong>src/routes/index.svelte</strong>
+		Aprendendo Ful-Stack Web Development! <strong>src/routes/index.svelte</strong>
 	</h2>
 
 	<Counter />
