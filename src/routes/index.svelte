@@ -19,7 +19,7 @@
 			</picture>
 		</div>
 
-		to your new<br />SvelteKit app
+		Curso Ful-Stack Web Development<br />Francisco Olifrans
 	</h1>
 
 	<h2>

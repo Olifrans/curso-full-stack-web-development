@@ -1,0 +1,34 @@
+* Craindo uma Workspaces no gitpod.io
+
+0- Faça login no 
+https://gitpod.io/
+
+1- Obeserve a URL
+https://gitpod.io/workspaces
+
+2- Para adcionar o projeto GitHub, no Gitpod delete a palavra /workspaces da URL,
+em seguida digite o simbolo jogo da velha (" # "), mais o endereço do projeto do GitHub.
+Exemplo:
+https://gitpod.io#https://github.com/Olifrans/curso-full-stack-web-development.git
+
+
+* Adcionando o kit.svelte.dev ao projeto do gitpod
+https://kit.svelte.dev/
+npm init svelte@next my-app
+cd my-app
+npm install
+npm run dev -- --open
+
+Next steps:
+  1: npm install (or pnpm install, etc)
+  2: git init && git add -A && git commit -m "Initial commit" (optional)
+  3: npm run dev -- --open
+
+Cola no terminal do  projeto
+npm init svelte@next .
+npm install
+npm run dev
+
+
+Estudo parado na posição do video 29:45
+https://www.youtube.com/watch?v=OUzaUJ3gEug
