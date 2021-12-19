@@ -1,4 +1,5 @@
-  tasks:
+
+tasks:
    - init: npm install
     #  command: npm run dev
      command: 
@@ -6,6 +7,10 @@
       echo "Starting dev server..."
       npm run dev
 
-  ports:
+ports:
     - port: 3000
       onOpen: open-browser
+      
+vscode:
+  extensions:
+    - svelte.svelte-vscode
