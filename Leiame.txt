@@ -42,3 +42,32 @@ TT.gitpod.yml-TT
 #       echo 'TODO: build project'
 #     command: |
 #       echo 'TODO: start app'
+
+
+
+configuração de porta no svelte.config.js
+
+// hydrate the <div id="svelte"> element in src/app.html
+		target: '#svelte',
+
+    Adção Francisco
+		vite: {
+			server: {
+				hmr: {
+					clientPort: 3000,
+					host: 'localhost'
+				}
+			}
+		}
+	}
+
+
+Logo após executar no terminal:
+gp url
+gp url 3000
+
+gitpod /workspace/curso-full-stack-web-development $ gp url
+https://peach-lamprey-adwo87yv.ws-us23.gitpod.io
+gitpod /workspace/curso-full-stack-web-development $ gp url 3000
+https://3000-peach-lamprey-adwo87yv.ws-us23.gitpod.io
+gitpod /workspace/curso-full-stack-web-development $ 
