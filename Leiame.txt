@@ -1,3 +1,7 @@
+Curso de Web Development Ful-Stack
+Com Svelt, Postgres, Vercel, Gitpod
+
+
 * Criando uma Workspaces no gitpod.io
 
 0- Faça login no 
@@ -28,10 +32,6 @@ Feito por mim:
 npm init svelte@next .
 npm install
 npm run dev
-
-
-Estudo parado na posição do video 29:45
-https://www.youtube.com/watch?v=OUzaUJ3gEug
 
 
 
@@ -71,3 +71,10 @@ https://peach-lamprey-adwo87yv.ws-us23.gitpod.io
 gitpod /workspace/curso-full-stack-web-development $ gp url 3000
 https://3000-peach-lamprey-adwo87yv.ws-us23.gitpod.io
 gitpod /workspace/curso-full-stack-web-development $ 
+
+
+Estudo parado na posição do video 01:50:20
+https://www.youtube.com/watch?v=OUzaUJ3gEug
+
+
+

@@ -1,17 +1,18 @@
 
-<section>
-	<h1>
-		<div class="welcome">
-			<picture>
-				<source srcset="svelte-welcome.webp" type="image/webp" />
-				<img src="svelte-welcome.png" alt="Welcome" />
-			</picture>
-		</div>
+<script>
+	import CursoItem from "$lib/curso-item.svelte";
 
-		Bem Vindo ao "Curso Ful-Stack Web Development"<br />Francisco Olifrans
-	</h1>
+	const title = "Curso Web Development Ful-Stack ";
+</script>
 
-	<h2>
-		Aprendendo Ful-Stack Web Development! <strong>src/routes/index.svelte</strong>
-	</h2>
-</section>
+<svelte:head> <title>{title}</title> </svelte:head>
+<h1>{title}</h1>
+
+<h2>Bem Vindo Ao Curso de Web Development Ful-Stack Com Svelt, Postgres, Vercel, e Gitpod</h2>
+<form action="" method="">
+	<input type="text" name="text" aria-label="Adcionar Curso" placeholder="+ adcione o curso desejado" />
+</form>
+
+<CursoItem />
+<CursoItem />
+<CursoItem />
